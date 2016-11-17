@@ -225,39 +225,124 @@ function create_config( )
     "set",
     "get",
     "broadcast",
+    "slmbaba",
+    "byebaba",
     "invite",
+    "qrcode",
+    "kir",
+    "short.link",
+    "mean",
+    "shekayat",
+    "invsudo",
     "all",
+    "khob",
+    "tnx",
+    "me",
     "leave_ban",
-	"supergroup",
-	"whitelist",
-	"msg_checks"
+    "banner",
+    "supergroup",
+    "whitelist",
+    "msg_checks",
+    "abjad",
+    "addplugin",
+    "music",
+    "mypic",
+    "antiemoji",
+    "antien",
+    "antifosh",
+    "antijoin",
+    "antimedia",
+    "antiop",
+    "antitag",
+    "antiuser",
+    "aparat",
+    "arz",
+    "azan",
+    "calc",
+    "config",
+    "del",
+    "file",
+    "filter",
+    "fwd",
+    "get",
+    "gg",
+    "google",
+    "help",
+    "helpfa",
+    "helpen",
+    "funhelpen",
+    "funhelpfa",
+    "unlockhelpen",
+    "unlockhelpfa",
+    "lockhelpfa",
+    "lockhelpen",
+    "mutehelpfa",
+    "mutehelpen",
+    "gphelpfa",
+    "gphelpen",
+    "info",
+    "insta",
+    "linkpv",
+    "nerkh",
+    "p",
+    "plugin",
+    "pss",
+    "re",
+    "rp",
+    "send",
+    "server",
+    "set",
+    "set_type",
+    "stick",
+    "sup",
+    "t",
+    "tophoto",
+    "tosticker",
+    "tr",
+    "vf",
+    "weather",
+    "write",
+    "activeuser",
+    "jock",
+    "Info1",
+    "time",
+    "fal",
+    "me2",
+    "date",
+    "news",
+    "save",
+    "on-off",
+    "kickmeYes",
+    "set_lang",
+    "ping",
+    "antilink",
+    "lock_video",
+    "lock_photo",
+    "lock_gif",
+    "lock_audio",
+    "setwelcome",
+    "getwelcome",
+    "lock_number",
+    "serverinfo",
+    "fwdd",
+    "verw",
+    "alexa",
+    "on_off",
+    "expiretime",
+    "type",
+    "type1",
+    "love",
+    "lock_cmds",
+    "a",
+    "looger",
+    "clean-del",
+    "mute-all",
+    "delall",
+    "rmsg"
     },
     sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v4
-An advanced administration bot based on TG-CLI written in Lua
-
-https://github.com/SEEDTEAM/TeleSeed
-
-Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@POTUS [Developer]
-@seyedan25 [Manager]
-@aRandomStranger [Admin]
-
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
-Our channels
-@teleseedch [English]
-@iranseed [persian]
-
-Our website 
-http://teleseed.seedteam.org/
+    about_text = [[.
 ]],
     help_text_realm = [[
 Realm Commands:
